@@ -16,3 +16,34 @@ body {
     font-family: "Courier New", Courier, monospace;
     line-height: 1.6;
 }
+
+/* Main Styling */
+section {
+    height: 100vh;
+    width: 100%;
+}
+
+.section-1 {
+    background: url(/dog-1123016_1920.jpg) no-repeat fixed center;
+    background-size: cover;
+}
+
+.section-2 {
+    background: url(/hedgehog-child-1759027_1920.jpg) no-repeat fixed center;
+    background-size: cover;
+}
+
+.section-3 {
+    background: url(/ireland-1985088_1920.jpg) no-repeat fixed center;
+    background-size: cover;
+}
+
+.section-4 {
+    background: url(/pets-3715733_1920.jpg) no-repeat fixed center;
+    background-size: cover;
+}
+
+.section-5 {
+    background: url(/rabbit-1903016_1920.jpg) no-repeat fixed center;
+    background-size: cover;
+}
